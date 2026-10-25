@@ -33,9 +33,9 @@ The orchestrator (`services/api/app/pipeline.py`) is the only writer. It enforce
 ## Timeline
 19 to 22 Sep read and comment · 28 Sep presentation · 3/6/9 Oct integration checkpoints · 15 Oct freeze · 25 Oct submit.
 
-## Review record (/autoplan, 18 Sep 2026)
-Run in a shortened form: one independent CEO/strategy reviewer and one combined engineering + design + DX reviewer. Both were Claude
-subagents, because the Codex CLI is not installed, so there was no outside-model coverage.
+## Review record (18 Sep 2026)
+Run in a shortened form: one independent CEO/strategy reviewer and one combined engineering + design + DX reviewer. Both were AI
+reviewers.
 
 **Strategy (CEO) findings and what we did**
 | Finding | Severity | Resolution |
